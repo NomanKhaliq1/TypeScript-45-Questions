@@ -1,0 +1,12 @@
+{
+  "title": "TypeScript 45 Questions",
+  "description": "Collection of 45 beginner-friendly TypeScript exercises with compiled JavaScript outputs for quick practice.",
+  "techTags": ["TypeScript", "Node.js"],
+  "source": "github",
+  "category": "Education",
+  "live_url": "",
+  "repo_name": "TypeScript-45-Questions",
+  "repo_link": true,
+  "image": "/projects/typescript-45-questions.webp",
+  "fetch": true
+}
